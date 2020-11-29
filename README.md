@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, this is Vlad 👋
 
-<!--
-**oconsuel/oconsuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring  💻 `developer` 🔭 `researcher` 🧠 `student`
 
-Here are some ideas to get you started:
+____
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### This is some facts about me 🙌
+
+- 🔭 I'm just a second-year student in [`FIT of Moscow Polytechnic University`](https://fit.mospolytech.ru)
+- 🌱 I'm currently improving my skills in `information security` and programming on `Python`, `JS`, `Bash` etc.
+- 👯 Loking to collaborate on some live projects in `**ui/ux(in js and css)**`
+- 🏆 Selected to [`Shool 21`](https://21-school.ru), but postponed training for nowut postponed training for now)
+- 📫 Available at [`Instagram`](https://www.instagram.com/mrphofficial) and [`Facebook`](https://www.facebook.com/oconsuel/)
+- 😄 U can check my [`site`]() for more info
+- ⚡ Other Interests: I like to play Fortnite, read and watch psychological books and films
+
+____
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oconsuel&theme=jolly&show_icons=true)
