@@ -11,7 +11,7 @@ ____
 - 👯 Loking to collaborate on some live projects in **`ui/ux(on js and css)`**
 - 🏆 Selected to [`Shool 21`](https://21-school.ru), but postponed training for now)
 - 📫 Available at [`Instagram`](https://www.instagram.com/mrphofficial) and [`Facebook`](https://www.facebook.com/oconsuel/)
-- 😄 U can check my [`site`]() for more info
+- 😄 U can check my [`site`](http://oconsuel-page.std-1001.ist.mospolytech.ru/) for more info
 - ⚡ Other Interests: I like to play Fortnite, read and watch psychological books and films
 
 ____
